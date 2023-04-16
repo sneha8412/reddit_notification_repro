@@ -1,0 +1,85 @@
+payload #1
+
+{
+  "title": "unRAID:",
+  "options": {
+    "body": "Anyone else having (slight) UI problems with 6.12 in FireFox?",
+    "icon": "https://external-preview.redd.it/mfZaKwUbd8yEj6R5x8zd-XEfcr-3skpU69-5_fAd6bA.jpg?width=1080&crop=smart&auto=webp&s=4e7d41b1da3be3c638fd8b416e78584a61b43b9a",
+    "data": {
+      "link": "https://www.reddit.com/r/unRAID/comments/11wvgts/anyone_else_having_slight_ui_problems_with_612_in/",
+      "correlation_id": "8fc732ec-e996-42c0-a9be-0725e3d3e607",
+      "message_type": "lifecycle_post_suggestions",
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e",
+      "auto_dismiss_options": {
+        "behavior": "timed",
+        "dismiss_time_ms": 25000
+      }
+    }
+  },
+  "data": {
+    "extra_payload_fields": {
+      "subreddit_id": "t5_2sn94",
+      "post_id": "t3_11wvgts",
+      "is_persisted": true,
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e"
+    }
+  }
+}
+
+payload #2
+
+{
+  "title": "zfs:",
+  "options": {
+    "body": "Rsyncing 20TB locally",
+    "icon": "https://www.redditstatic.com/emaildigest/reddit_community.png",
+    "data": {
+      "link": "https://www.reddit.com/r/zfs/comments/11x8qw1/rsyncing_20tb_locally/",
+      "correlation_id": "97bfc3c3-5bc4-4cd8-8e94-c4c58b7a8411",
+      "message_type": "lifecycle_post_suggestions",
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e",
+      "auto_dismiss_options": {
+        "behavior": "timed",
+        "dismiss_time_ms": 25000
+      }
+    }
+  },
+  "data": {
+    "extra_payload_fields": {
+      "subreddit_id": "t5_2ruui",
+      "post_id": "t3_11x8qw1",
+      "is_persisted": true,
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e"
+    }
+  }
+}
+
+
+payload #3
+
+{
+  "title": "unRAID:",
+  "options": {
+    "body": "Unraid 6.12.0-rc2 Now Available",
+    "icon": "https://external-preview.redd.it/fTqjd8F-gt09fmvhoTxhj0fU4nR0jzSpVGXbPxhyI8E.jpg?width=1080&crop=smart&auto=webp&s=8662f69777603190b819c02534c3977b7b149aec",
+    "data": {
+      "link": "https://www.reddit.com/r/unRAID/comments/11xxcu5/unraid_6120rc2_now_available/",
+      "correlation_id": "7e4297be-1973-4694-ae07-055a47648241",
+      "message_type": "lifecycle_post_suggestions",
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e",
+      "auto_dismiss_options": {
+        "behavior": "timed",
+        "dismiss_time_ms": 25000
+      }
+    }
+  },
+  "data": {
+    "extra_payload_fields": {
+      "subreddit_id": "t5_2sn94",
+      "post_id": "t3_11xxcu5",
+      "is_persisted": true,
+      "device_id": "2ab94a31627036941e4100dff5b01bf263053650483f62039b9000e498cd860e"
+    }
+  }
+}
+
